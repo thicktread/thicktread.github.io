@@ -1,0 +1,13 @@
+To-dos for tt webpage:
+
+-upload a font from google apis
+-create links for all social media pages
+	-use psuedo-class for :hover (increase font size, strike-thru font, etc.)
+-edit or crop band photo/logo in some way to get rid of grey color
+-investigate another service to host the page
+	-google drive, github, etc.
+-set a body image background
+-tagline or lyric quote to add somewhere, like "saggy armz punx"
+-embed spotify/band camp/ other audio src player?
+-"friends" link to link other bands pages
+	-tfp, ggl, iltx
